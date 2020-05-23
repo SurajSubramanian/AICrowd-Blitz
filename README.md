@@ -1,5 +1,6 @@
 # AICrowd
 Solutions to the 5 Problems in https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020/
+Secured 4th place.
 
 ## FOODC
 Initially the dataset was trained for certain number epochs after resizing images to size 32x32 and the weights were saved.
