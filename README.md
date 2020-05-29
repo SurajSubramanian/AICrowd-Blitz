@@ -14,3 +14,6 @@ Initially, tried to train the same Resnet architecture given in the starter code
 
 ## DIBRD (Suraj)
 Used ensemble learning with nearly 12 models to get good accuracy. Code was executed locally.
+
+## ORIENTME 
+Used nearest neighbour on central 64x64 crop of images.
