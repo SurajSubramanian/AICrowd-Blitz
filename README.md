@@ -12,7 +12,7 @@ In this way, training is done by progressively increasing image size.
 ## MINILEAVES
 Initially, tried to train the same Resnet architecture given in the starter code for extra epochs. Then tried to use Resnet101. Finally after modifying architecture to densenet121 and trainiing for extra epochs on complete dataset after modifying valid_pct=0.00001, was able to get decent results. Maybe we can better results, if we train on other models and ensemble on them.
 
-## DIBRD (Suraj)
+## DIBRD
 Used ensemble learning with nearly 12 models to get good accuracy. Code was executed locally.
 
 ## ORIENTME 
